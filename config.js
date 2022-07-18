@@ -1,9 +1,9 @@
-gc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+ngc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'] // ganti jadi group lu
-global.owner = ['6282221792667','6282320830684'] // Put your number here //owner eval
-global.kontak = ['6282221792667','6282320830684'] //Ketika ada yang ngetik #owner
+global.owner = ['6285738639969','6285738639969'] // Put your number here //owner eval
+global.kontak = ['6285738639969','6285738639969'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6282221792667','6282320830684'] // Premium user has unlimited limit
 
@@ -46,20 +46,20 @@ xteamkey = 'cristian9407'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Done`
-namakontak1 = 'Owner Tio'
+namakontak1 = 'Owner 🤡'
 namakontak2 = 'Nomor Bot'
 
 //kasihcaption = `Done`
 
 // Sticker WM
-global.packname = 'BOTCAHX' // ganti aja
-global.author = 'BOTCAHX' // ganti aja
+global.packname = '🤡' // ganti aja
+global.author = 'Crash' // ganti aja
 
 //yyy
 bc = '' //BOTCAHX BROADCAST
-footer = '\n© BOTCAHX'
-namabot = '𝘽𝙊𝙏𝘾𝘼𝙃𝙓'
-namalu = 'Tio'
+footer = '\n© CRASH'
+namabot = 'CRASH'
+namalu = '🤡'
 
 
 // 
